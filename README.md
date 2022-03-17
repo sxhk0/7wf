@@ -5,4 +5,4 @@
 
 ###### experiments
 
-- [html-to-image-in-node](html-to-image-in-node): using node.js to create images from html documents.
+- [html-to-image-in-node](https://github.com/sxhk0/html-to-image-in-node): using node.js to create images from html documents.
