@@ -1,8 +1,5 @@
 #### sxhk.
 
 - [latest work](https://github.com/sxhk0/workerstrator)
-- [archived projects](https://github.com/sxhkarchive)
-
-###### experiments
-
-- [html-to-image-in-node](https://github.com/sxhk0/html-to-image-in-node): using node.js to create images from html documents.
+- [archived repositories](https://github.com/sxhkarchive)
+- [experiments and learning repositories](https://github.com/sxhkexp)
