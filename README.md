@@ -1,6 +1,6 @@
-#### :sparkles: hi there! — [**@zhaoworks**](https://github.com/zhaoworks)
+#### :sparkles: hi there! — i'm selling software at [**@zhaoworks**](https://github.com/zhaoworks)
 
-- [latest work](https://github.com/sxhk0/workerstrator)
+- [latest work](https://github.com/zhaoworks)
 - [archived repositories](https://github.com/sxhkarchive)
 - [experiments & learning repositories](https://github.com/sxhkexp)
 
