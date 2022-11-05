@@ -7,4 +7,5 @@
 #### :leaves: web lounge
 
 - [genshin stickers](https://genshinstickers.netlify.com/) - copy-to-clipboard genshin stickers.
+- [aspect colors](https://aspectuicolors.netlify.app/) - a color picker from dribbble web designs.
 - [fishmania](https://fishmania.netlify.com) - a fishing themed clicker game.
