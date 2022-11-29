@@ -1,4 +1,11 @@
-#### :sparkles: hi there! — i'm selling software at [**@zhaoworks**](https://github.com/zhaoworks)
+#### :sparkles: hi there!
+
+uiux software artisan.
+
+- [typescript](https://typescriptlang.org) ([any](https://nodejs.org) [javascript](https://deno.land) [runtime](https://bun.sh)) > [golang](https://go.dev) > [rust](https://rust-lang.org).
+- [elixir](https://elixir-lang.org) > [python](https://python.org) > [crystal](https://crystal-lang.org)/[ruby](https://ruby-lang.org) > any other.
+
+#### :artificial_satellite: projects
 
 - [latest work](https://github.com/zhaoworks)
 - [archived repositories](https://github.com/sxhkarchive)
