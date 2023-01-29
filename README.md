@@ -1,6 +1,8 @@
-#### :sparkles: hi there!
+### :sparkles: hi there!
 
 uiux software artisan.
+
+<a href="https://app.daily.dev/zhxo"><img align="right" src="https://api.daily.dev/devcards/7641618fbb074bfcb840ce43ad039a7d.png?r=s3r" width="260" alt="赵雨愛's Dev Card"/></a>
 
 - [typescript](https://typescriptlang.org) ([any](https://nodejs.org) [javascript](https://deno.land) [runtime](https://bun.sh)) > [golang](https://go.dev) > [rust](https://rust-lang.org).
 - [elixir](https://elixir-lang.org) > [python](https://python.org) > [crystal](https://crystal-lang.org)/[ruby](https://ruby-lang.org) > any other.
