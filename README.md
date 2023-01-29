@@ -13,6 +13,11 @@ uiux software artisan.
 - [archived repositories](https://github.com/sxhkarchive)
 - [experiments & learning repositories](https://github.com/sxhkexp)
 
+###### side-projects
+
+- [devance](https://github.com/devancein) - an open developer agency.
+- [lapse](https://github.com/lapseinc) - realtime made easy.
+
 #### :leaves: web lounge
 
 - [genshin stickers](https://genshinstickers.netlify.com/) - copy-to-clipboard genshin stickers.
