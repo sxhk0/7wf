@@ -15,7 +15,6 @@ uiux software artisan.
 
 ###### side-projects
 
-- [devance](https://github.com/devancein) - an open developer agency.
 - [lapse](https://github.com/lapseinc) - realtime made easy.
 
 #### :leaves: web lounge
