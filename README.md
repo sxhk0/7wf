@@ -1,4 +1,6 @@
-### :sparkles: hi there!
+[![wakatime](https://wakatime.com/badge/user/ac1ae0d6-eb38-4074-b624-2380b6145ff5.svg)](https://wakatime.com/@ac1ae0d6-eb38-4074-b624-2380b6145ff5)
+
+### :sparkles: hi there! 
 
 uiux software artisan.
 
